@@ -1,3 +1,7 @@
+API SIMPLE DE INSTAGRAM
+
+En este proyecto creare una API que simule el funcionamiento del servidor de una aplicación básica similar a Instagram.
+
 ## Este proyecto usa:
 
 - React.js
